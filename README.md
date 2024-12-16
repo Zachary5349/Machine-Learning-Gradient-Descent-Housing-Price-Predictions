@@ -1,6 +1,6 @@
 # Gradient-Descent-Housing-Price-Predictions
 
-This application can predict the price of a housing property by taking random data, and learns to predict future prices. 
+This application can predict the price of a housing property by taking random data. The program learns to predict future prices. 
 
 # To use
 
