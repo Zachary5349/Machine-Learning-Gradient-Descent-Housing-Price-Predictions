@@ -12,7 +12,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 Then after you run the program, the program will take the random data and perform gradiant descent, achieving the line of best fit for the data points. 
-The program will create two graphs, one is a graph of the cost function over time, and then it will graph the housign prices along with the line of best fit.
+The program will create two graphs, one is a graph of the cost function over time, and then it will graph the housing prices along with the line of best fit.
 You can alter the function that generates the price of the houses if needed.
 
 
